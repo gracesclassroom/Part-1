@@ -8,7 +8,6 @@ This is a test page
 @snap[east fragment]
 # World!
 @snapend
-note: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gracesclassroom/Part-1)
 ---
 # title
 this should be a new page
