@@ -1,6 +1,7 @@
-note: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gracesclassroom/Part-1)
+
 # Test
 This is a test page
+note: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gracesclassroom/Part-1)
 ---
 # title
 this should be a new page
