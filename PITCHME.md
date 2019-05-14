@@ -1,3 +1,4 @@
+#test
 Test
 ---
 this should be a new page
