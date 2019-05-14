@@ -1,6 +1,13 @@
 
 # Test
 This is a test page
+@snap[west]
+# Hello
+@snapend
+
+@snap[east fragment]
+# World!
+@snapend
 note: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gracesclassroom/Part-1)
 ---
 # title
