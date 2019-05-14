@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gracesclassroom/Part-1)
+note: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gracesclassroom/Part-1)
 # Test
 This is a test page
 ---
