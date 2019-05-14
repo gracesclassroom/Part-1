@@ -1,8 +1,15 @@
 
-# Test
-This is a test page
-<p class="fragment">this is a fragment text thing</p>
-@box[fragment](Mars Attacks # Greetings earthlings. We come in peace!)
+# What is an Operating system?
+<ul>
+  <li class="fragment">A piece of software that contains different programs to allow you to use your device
+    <li class="fragment">It tells your computer how to interact with peripherals<li>
+  <li class="fragment">It tells your computer how to process the software so you can use programs</li>
+  <li class="fragment">It allows you to access and manage the device storage using a filesystem</li>
+  </li>
+  <li class="fragment">Most operating systems provide a graphical user interface to make it easier for the end user to access the features</li>
+  <li class="fragment">Most operating systems can be controlled remotely or locally using a command line tool such as Powershell in Windows or Terminal in Linux</li>
+  </ul>
+  
 ---
 # title
 this should be a new page
